@@ -13,8 +13,8 @@ s.authors                        = { 'Elikem Savie' => 'elviva96@gmail.com' }
   s.platform                       = :ios
   s.swift_version                       = '5.0'
   s.ios.deployment_target          = '13.0'
-  s.source_files                   = 'PodTestPackage/*.swift'
-  s.dependency                       'SubPod1', s.version.to_s
+  s.source_files                   = 'PodTePackage/*.swift'
+  s.dependency                       'SubPod2', s.version.to_s
 end
 
 
