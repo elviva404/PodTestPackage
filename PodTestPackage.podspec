@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
 
   # Do not update s.version directly.
   # Instead, update the VERSION file and run ./ci_scripts/update_version.sh
-s.version                        = '0.0.2'
+s.version                        = '0.0.3'
 
   s.summary                        = 'Testing.'
-  s.homepage     = "https://elviva404.github.io/elikemsavie.github.io/"
+  s.homepage     = "https://elviva404.githubg.io/elikemsavie.github.io/"
 
   s.license                        = 'MIT'
 s.authors                        = { 'Elikem Savie' => 'elviva96@gmail.com' }
